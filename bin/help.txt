@@ -1,0 +1,6 @@
+Usage: Used to generate boilerplate code for python, p5js, static page and node-express.
+Available Commands:
+html <name> - Generates a static webpage in the directory name.
+py <name> - Creates a python file.
+p5 <name> - Generates a p5js project.
+node-express <name> - Creates a node app with express.(Initialized with a package.json)
