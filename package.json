@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A CLI Tool for generating boilerplate code.",
   "main": "bin\\cg.js",
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/Mystery-Coder/codegen-cli.git"
+},
   "keywords": [
     "cg"
   ],
