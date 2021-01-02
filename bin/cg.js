@@ -73,7 +73,7 @@ else if(projectType === "py" && projectName !== undefined){
 	})();
 
 }
-else if(projectType === "node-express" && projectName !== undefined){
+else if(projectType === "node-express" && projectName !== undefine){
 	(async function(){
 		await fs.copy(require.main.path+"\\temps\\node-express", proPath);
 		let temp_d_ex_index = await fs.readFileSync(process.cwd()+"\\"+projectName+"\\public\\index.html").toString();
