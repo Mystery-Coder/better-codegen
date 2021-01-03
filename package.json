@@ -1,6 +1,6 @@
 {
   "name": "simple-codegen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI Tool for generating boilerplate code.",
   "main": "bin\\cg.js",
   "repository": {
