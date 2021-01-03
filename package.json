@@ -8,7 +8,7 @@
 	"url": "https://github.com/Mystery-Coder/simple-codegen.git"
 },
   "keywords": [
-    "cg"
+    "cg", "cli", "simple"
   ],
   "bin": {
     "cg": "bin\\cg.js"
