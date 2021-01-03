@@ -1,5 +1,5 @@
 {
-  "name": "@codegen/cli",
+  "name": "simple-codegen",
   "version": "1.0.1",
   "description": "A CLI Tool for generating boilerplate code.",
   "main": "bin\\cg.js",
