@@ -22,7 +22,7 @@ else if(!projectTypes.includes(projectType)){
 	log(chalk.yellow(projectType) + " is "+ chalk.red.underline("not") +" a valid projectType.")
 	log(chalk.green("The valid projectTypes are:"))
 	projectTypes.map(val  => {
-		log(`${chalk.blue(val)}`)
+		log(chalk.blue(val))
 	})
 }
 
