@@ -1,5 +1,5 @@
 # simple-codegen
-**Very simple code generator for p5js, static page, node-express and simple python file.**
+**A Very simple cli code generator for p5js, static page, node-express and simple python file.**
 
 ## Installation 
 To install globally,
