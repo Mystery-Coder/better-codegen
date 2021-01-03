@@ -1,6 +1,6 @@
 {
   "name": "@codegen/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI Tool for generating boilerplate code.",
   "main": "bin\\cg.js",
   "repository": {
