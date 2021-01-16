@@ -19,7 +19,7 @@ npm install -g simple-codegen
  | html | This will generate a simple static website. | `cg html my-website`
  | p5js | This will create a website with p5js. | `cg p5js my-project`
  | node-express | A Node App with Express  | `cg node-express my-app`
- | py | Simple Python file | cg py myfile
+ | py | Simple Python file | `cg py myfile`
 
 
 ---
