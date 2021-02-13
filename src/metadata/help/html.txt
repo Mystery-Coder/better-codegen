@@ -1,0 +1,9 @@
+The 'html' command is used to generate a very simple static webpage.
+
+A directory with the name you give is created. In that directory,
+there are two files,
+1. index.html
+2. script.js
+
+Command Example,
+cg html projectName

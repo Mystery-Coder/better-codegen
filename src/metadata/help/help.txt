@@ -1,0 +1,8 @@
+Usage: Used to generate boilerplate code for python, p5js and static webpage.
+Available Commands:
+
+html <name> - Generates a static webpage in the directory name.
+py <name> - Creates a python file.
+p5js <name> - Generates a p5js project.
+
+You can get detailed help on specific commands by cg help <command>

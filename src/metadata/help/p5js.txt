@@ -1,0 +1,9 @@
+The 'p5js' command is used to generate a simple webage which is linked with the p5js library.
+
+A directory with the name you give is created. In that directory,
+there are two files,
+1. index.html
+2. sketch.js
+
+Command Example,
+cg p5js projectName

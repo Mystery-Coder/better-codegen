@@ -1,22 +1,19 @@
 {
-  "name": "simple-codegen",
-  "version": "1.0.7",
-  "description": "A CLI Tool for generating boilerplate code.",
-  "main": "bin\\cg.js",
+  "name": "better-codegen",
+  "version": "1.0.0",
+  "description": "A very simple code genrator for p5js, static page, python file. Note: The 'better' refers that it is the better version of simple-codegen",
+  "main": "index.js",
   "repository": {
-    "type": "git",
-	"url": "https://github.com/Mystery-Coder/simple-codegen.git"
-},
-  "keywords": [
-    "cg", "cli", "simple"
-  ],
-  "bin": {
-    "cg": "bin\\cg.js"
+	  "url": "https://github.com/Mystery-Coder/better-codegen.git",
+	  "type": "git"
   },
-  "author": "Mystery-Coder",
+  "bin": {
+    "cg": "src\\index.js"
+  },
+  "keywords": ["cli", "simple", "codegen"],
+  "author": "mystery-coder",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.0",
     "fs-extra": "^9.0.1"
   }
 }

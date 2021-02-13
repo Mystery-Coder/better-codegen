@@ -1,0 +1,6 @@
+The 'py' command is used to create a python file.
+
+A python file is created with the file name you give.
+
+Command Example,
+cg py projectName
