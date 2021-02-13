@@ -1,4 +1,4 @@
-# simple-codegen
+# better-codegen
 **A Very simple cli code generator for p5js, static page and simple python file.**
 
 # Installation 

@@ -4,13 +4,17 @@
   "description": "A very simple code genrator for p5js, static page, python file. Note: The 'better' refers that it is the better version of simple-codegen",
   "main": "index.js",
   "repository": {
-	  "url": "https://github.com/Mystery-Coder/better-codegen.git",
-	  "type": "git"
+    "url": "https://github.com/Mystery-Coder/better-codegen.git",
+    "type": "git"
   },
   "bin": {
     "cg": "src\\index.js"
   },
-  "keywords": ["cli", "simple", "codegen"],
+  "keywords": [
+    "cli",
+    "simple",
+    "codegen"
+  ],
   "author": "mystery-coder",
   "license": "MIT",
   "dependencies": {
