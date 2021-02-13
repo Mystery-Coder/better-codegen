@@ -30,6 +30,6 @@ You can also now type `cg help <command>` for detailed help on a particular comm
 # License
  **MIT**
 
-
+---
 
 
