@@ -5,7 +5,7 @@
 To install globally,
 
 `
-npm install -g simple-codegen 
+npm install -g better-codegen 
 `
 ***
 
